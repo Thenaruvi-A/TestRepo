@@ -1,0 +1,4 @@
+git branch
+git branch <> - creates branch
+git checkout -- out of brach
+

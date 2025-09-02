@@ -1,0 +1,4 @@
+To write any git command should be n the repo folder
+Like outside GIT-FST GIT Pull will throw an error
+Inside TestRepo GIT pull will work
+This file is to create a file in the local repo and see push to the remote repo
